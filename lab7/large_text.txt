@@ -1,0 +1,3 @@
+Hi occurs twice Hi
+Bye occurs thrice Bye Bye
+Large occurs four times Large Large Large
